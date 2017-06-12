@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1497183594 source:g:\dev\json\leptjson\leptjson.c
+	"leptjson.h"
+	<assert.h>
+	<errno.h>
+	<math.h>
+	<stdlib.h>
+
+1497183616 g:\dev\json\leptjson\leptjson.h
+
+1497182099 source:g:\dev\json\leptjson\utest.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leptjson.h"
+
