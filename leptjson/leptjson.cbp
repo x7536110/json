@@ -31,7 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="leptjson.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="leptjson.h" />
+		<Unit filename="utest.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
